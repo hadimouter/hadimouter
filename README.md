@@ -1,6 +1,6 @@
 ![Bannière](./Banniere3.png)
 
-# Hadi Mouter - Full-Stack Developer & Technical Advisor
+# Hadi Mouter - Full-Stack Developer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hadimouter/) [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=web&logoColor=white)](https://hadimouter.com/) [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:contact@hadimouter.com)  | 📍 Paris | 🎯 Audit technique GRATUIT
 
@@ -9,12 +9,12 @@
 Spécialisé dans les architectures SaaS complexes et les migrations critiques.
 Mon obsession : un code qui scale et une équipe qui ship sereinement.
 
-### 💰 Impact direct sur le business
+### Impact direct sur le business
 - **-95%** d'erreurs → 200k€ économisés/an (migration système de gestion)
 - **+16%** de CA → Automatisation complète des réservations
 - **-60%** bugs production → Division par 3 du support technique
 
-## 🎯 Audit technique GRATUIT
+## Audit technique GRATUIT
 
 **Je détecte vos problèmes cachés** (valeur 1200€)
 - Analyse : Code, Architecture, Performance, Sécurité
