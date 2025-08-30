@@ -2,7 +2,7 @@
 
 # Hadi Mouter - Full-Stack Developer & Technical Advisor
 
-[![LinkedIn](link) | 📍 Paris | 🎯 Audit technique GRATUIT
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hadimouter/) [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=web&logoColor=white)](https://hadimouter.com/) [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:contact@hadimouter.com)  | 📍 Paris | 🎯 Audit technique GRATUIT
 
 ## Je résous les problèmes techniques qui coûtent cher
 
@@ -21,7 +21,7 @@ Mon obsession : un code qui scale et une équipe qui ship sereinement.
 - Livrable : Rapport PDF + Plan d'action prioritisé
 - Engagement : Aucun, c'est cadeau
 
-📅 **[Réserver votre audit gratuit](calendly-link)**
+📅 **[Réserver votre audit gratuit](https://calendly.com/hadimouter/call-30min-gratuit)**
 
 ## Tech Stack
 
@@ -87,7 +87,7 @@ Mon obsession : un code qui scale et une équipe qui ship sereinement.
 - ❌ Missions de maintenance pure
 - ❌ "Petites modifs" sur du code spaghetti
 
-📧 contact@hadimouter.com | 📅 [Discutons de votre projet](calendly-link)
+📧 contact@hadimouter.com | 📅 [Discutons de votre projet](https://calendly.com/hadimouter/call-30min-gratuit)
 
 ---
 *"Un bon développeur résout des problèmes. Un excellent développeur évite qu'ils arrivent."*
