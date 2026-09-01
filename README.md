@@ -1,5 +1,3 @@
-![Qui accède à quoi. Et pourquoi. Hadi Mouter, ingénieur Identity & Access Management à Paris.](banner-github.jpg)
-
 Ingénieur Identity & Access Management chez Edenred, à Paris.  
 Microsoft Certified: Identity and Access Administrator Associate (SC-300).
 
