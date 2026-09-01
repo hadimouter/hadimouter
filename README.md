@@ -1,5 +1,5 @@
-Ingénieur Identity & Access Management chez Edenred, à Paris.  
-Microsoft Certified: Identity and Access Administrator Associate (SC-300).
+## Ingénieur Identity & Access Management chez Edenred, à Paris.  
+### ✅ Microsoft Certified: Identity and Access Administrator Associate (SC-300).
 
 Je travaille sur les identités et les accès : comment un droit est accordé, ce qui le justifie, et comment on le retire quand il n'a plus lieu d'être.
 
