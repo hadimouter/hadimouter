@@ -1,27 +1,12 @@
+![Qui accède à quoi. Et pourquoi. Hadi Mouter, ingénieur Identity & Access Management à Paris.](ban.png)
+
 ## Ingénieur Identity & Access Management chez Edenred, à Paris.  
+
 ### ✅ Microsoft Certified: Identity and Access Administrator Associate (SC-300).
 
 Je travaille sur les identités et les accès : comment un droit est accordé, ce qui le justifie, et comment on le retire quand il n'a plus lieu d'être.
 
 J'arrive du développement full-stack. Cette expérience me permet aujourd'hui de travailler des deux côtés de la frontière : comprendre ce que configure l'IAM, mais aussi ce que l'application fait réellement de l'identité, des jetons et des droits qu'elle reçoit.
-
----
-
-## Projets sélectionnés
-
-### Identity Security Lab
-
-Lab IAM construit autour de **Keycloak**, avec SSO OpenID Connect, Authorization Code Flow + PKCE, validation JWT via JWKS, API protégée, RBAC côté serveur, workflow de demande d'accès, validation manager et révocation immédiate.
-
-Les droits effectifs sont recalculés à chaque appel à partir des rôles du token et des grants encore actifs en base.
-
-**Keycloak · OIDC · OAuth 2.0 · PKCE · JWT · JWKS · RBAC · Next.js · Node.js**
-
-### Microsoft Identity
-
-Automatisation de contrôles Identity & Access avec Python : comptes inactifs, utilisateurs sans manager, groupes sensibles, comptes de service à risque et préparation de rapports de revue d'accès.
-
-**Microsoft Entra ID · Identity Governance · Access Reviews · Python**
 
 ---
 
